@@ -13,8 +13,7 @@ I was quite a beginner at first, and I was really nervous about studying compute
 
 **_Talking about Vera Molnar_**- Artist List
 - The reason on why I was drawn to Velna Molnar's _Interruptions_(1968-69) explores of structure and disruption, which it creates a rhythmic yet unpredictable composition. At first, the composition appears neat, but her small shifts breaks up the pattern, drawing attention to unexpected. Molnar, a pioneer of computer-generated art, introduces randomness into strict geometric designs, creating a sense of controlled imperfection. This balance between order and mostly disruption is what draws me into _Interruptions_.  This piece encouraged me to close observation, reveals on how minor changes can alter perception and meaning. It becomes slightly unsettled, making the viewer more aware of the way structures can subtly break down. This links with my interest in glitch aesthetics on how small disruptions can create new ways of seeing.
-[Vera Molnár at the 2022 Venice Biennale](https://magazine.artland.com/veramolnar/#:~:text=Vera%20Moln%C3%A1r%20at%20the%202022%20Venice%20Biennale&text=Moln%C3%A1r%20wrote%20an%20algorithm%20that,shapes%20collide%20and%20generating%20friction.)
-
+[Vera Molnár at the 2022 Venice Biennale](https://magazine.artland.com/vera-molnar/#:~:text=Vera%20Moln%C3%A1r%20at%20the%202022%20Venice%20Biennale&text=Moln%C3%A1r%20wrote%20an%20algorithm%20that,shapes%20collide%20and%20generating%20friction.)
 
 
 Her artwork emobodies fun, playful, thoughtful disarrangement
