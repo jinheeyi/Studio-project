@@ -23,4 +23,10 @@
 
 
 ## Coding
-- 
+- I decided to plan out on about my 'glitch' project and decided to make multiple of cubes, but adding the movement of a wave. It's mostly similar to the artist that I chose: Velna Molnar, where it explores a lot of randomness, and playing with grids, lines and simple shapes to generate complex compositions. 
+
+**the planning**
+![IMG_1983](https://github.com/user-attachments/assets/3467d774-fe04-4088-95e0-0491b890f475)
+- The most essential point is where on making the column and rows and filling it with cubes. So I started to research on the columns and rows on www.google.com when I came to find out this one youtube video, that helped me to get on track. 
+https://www.youtube.com/watch?v=UKxB2j4h7Ag
+ 
