@@ -27,6 +27,9 @@
 
 **the planning**
 ![IMG_1983](https://github.com/user-attachments/assets/3467d774-fe04-4088-95e0-0491b890f475)
-- The most essential point is where on making the column and rows and filling it with cubes. So I started to research on the columns and rows on www.google.com when I came to find out this one youtube video, that helped me to get on track. 
+- The most essential point is where on making the column and rows and filling it with cubes. So I started to research [column and row p5.js](https://www.google.com/search?q=column+and+row+p5.js&rlz=1C1GCEA_enNZ1149&oq=column+and+row+p5.js&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRiPAjIHCAMQIRiPAtIBCDM5OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+on www.google.com when I came to find out this one youtube video, that helped me to get on track. 
 https://www.youtube.com/watch?v=UKxB2j4h7Ag
+![Screenshot 2025-02-12 162243](https://github.com/user-attachments/assets/05296ab1-d26c-480b-bbae-38aaf35e55c7)
+
  
