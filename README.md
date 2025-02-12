@@ -35,12 +35,12 @@ on www.google.com when I came to find out this one youtube video, that helped me
 ![Screenshot 2025-02-12 162243](https://github.com/user-attachments/assets/05296ab1-d26c-480b-bbae-38aaf35e55c7)
 ![Screenshot 2025-02-12 162604](https://github.com/user-attachments/assets/7850e0cc-bcd8-482e-80ba-bf293b97f31e)
 
-The user using the first code was setting up
+She first started using the first code which was setting up
 ```ruby
 let columns; let rows;
 let colSize; let rowSize;
 ```
 ![Screenshot 2025-02-12 163926](https://github.com/user-attachments/assets/5cd2d3e6-6789-4af0-8a07-70f3b18edab9)
-It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on making this code. Thanks to [Patt Vira](https://www.youtube.com/@pattvira), I had a lot of help from youtube, and followed her course video along. 
+- It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on google and youtube the same time. Thanks to [Patt Vira](https://www.youtube.com/@pattvira), I had a lot of help from her on youtube, and followed her course video along.
 
  
