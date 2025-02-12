@@ -23,7 +23,7 @@
 
 
 ## Coding
-- I decided to plan out on about my 'glitch' project and decided to make multiple of cubes, but adding the movement of a wave. It's mostly similar to the artist that I chose: Velna Molnar, where it explores a lot of randomness, and playing with grids, lines and simple shapes to generate complex compositions. 
+- I wanted to plan out on about my 'glitch' project and decided to make multiple of cubes, but adding the movement of a waves. It's mostly similar to the artist that I chose: Velna Molnar, where it explores a lot of randomness, and playing with grids, lines and simple shapes to generate complex compositions. 
 
 **the planning**
 ![IMG_1983](https://github.com/user-attachments/assets/3467d774-fe04-4088-95e0-0491b890f475)
@@ -39,6 +39,6 @@ let columns; let rows;
 let colSize; let rowSize;
 ```
 ![Screenshot 2025-02-12 163926](https://github.com/user-attachments/assets/5cd2d3e6-6789-4af0-8a07-70f3b18edab9)
-
+It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on making this code. Thanks to (Patt Vira)[https://www.youtube.com/@pattvira], I had a lot of help from youtube, and followed her course video along. 
 
  
