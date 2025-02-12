@@ -39,6 +39,6 @@ let columns; let rows;
 let colSize; let rowSize;
 ```
 ![Screenshot 2025-02-12 163926](https://github.com/user-attachments/assets/5cd2d3e6-6789-4af0-8a07-70f3b18edab9)
-It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on making this code. Thanks to (Patt Vira)[https://www.youtube.com/@pattvira], I had a lot of help from youtube, and followed her course video along. 
+It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on making this code. Thanks to [Patt Vira](https://www.youtube.com/@pattvira), I had a lot of help from youtube, and followed her course video along. 
 
  
