@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=UKxB2j4h7Ag
 ![Screenshot 2025-02-12 162243](https://github.com/user-attachments/assets/05296ab1-d26c-480b-bbae-38aaf35e55c7)
 ![Screenshot 2025-02-12 162604](https://github.com/user-attachments/assets/7850e0cc-bcd8-482e-80ba-bf293b97f31e)
 
-The first code used is
+The user using the first code was setting up
 ```ruby
 let columns; let rows;
 let colSize; let rowSize;
