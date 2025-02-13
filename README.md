@@ -42,8 +42,7 @@ let colSize; let rowSize;
 ```
 ![Screenshot 2025-02-12 163926](https://github.com/user-attachments/assets/5cd2d3e6-6789-4af0-8a07-70f3b18edab9)
 - It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on google and youtube the same time. Thanks to [Patt Vira](https://www.youtube.com/@pattvira), I had a lot of help from her on youtube, and followed her course video along.
-- I decided to focus on the wave effect and learned from www.youtube.com from [Patt Vira](https://www.youtube.com/@pattvira) on where she learns about wave pattern, and looking back at the workshops codes that I previously did. Looking back at workshops
-- starting the first code, I decided to change to
+- I decided to focus on the wave effect and learned from www.youtube.com from [Patt Vira](https://www.youtube.com/@pattvira) on where she learns about wave patterns, and looking back at the workshops codes that I previously did. Looking back at workshop 7, starting on the first code, I decided to change:
 ```ruby
 let cols = 10;  
 let rows = 10;  
@@ -56,9 +55,29 @@ function setup() {
   rectMode(CENTER);
 }
 ```
-- talk about strokeWeight, deltaTime, time and wave motion (from p5.js)
+- I mostly similarly duplicated on what she did for her coding work, and also adding the few codes from the help of my friend, too. It was
+```ruby
+ for (let i = 0; i < cols; i++) {
+    for (let j = 0; j < rows; j++) {
+      let x = i * squareSize + squareSize / 2;
+      let y = j * squareSize + squareSize / 2;
+```
+At to this limit of the code, I was quite confused on what to continue on to the next code, so I asked www.chatgpt.com, questioning _can you make the squares move like the wave motion?_, and it displayed up like this:
+```ruby
+ push();
+      translate(x + xOffset, y + waveY + yOffset);
+      rotate(angle);
+      strokeWeight(random(0.5, 2)); // line thickness
+      rect(0, 0, randomSize, randomSize);
+      pop();
+    }
+  }
 
+  time += 0.01; 
+}
+```
+It's quite confusing at first and asked again on about the description of only the end of the code, as there was a lot of codes that I know for example; rotate(angle), 
 
-
+![Screenshot 2025-02-13 153847](https://github.com/user-attachments/assets/b8a5387d-c49d-4bd8-9fcb-05ffd7c92fd8)
 
  
