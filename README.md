@@ -42,5 +42,23 @@ let colSize; let rowSize;
 ```
 ![Screenshot 2025-02-12 163926](https://github.com/user-attachments/assets/5cd2d3e6-6789-4af0-8a07-70f3b18edab9)
 - It was quite complicated on how it worked throughout the glitch code, but I never gave up and plenty researched on google and youtube the same time. Thanks to [Patt Vira](https://www.youtube.com/@pattvira), I had a lot of help from her on youtube, and followed her course video along.
+- I decided to focus on the wave effect and learned from www.youtube.com from [Patt Vira](https://www.youtube.com/@pattvira) on where she learns about wave pattern, and looking back at the workshops codes that I previously did. Looking back at workshops
+- starting the first code, I decided to change to
+```ruby
+let cols = 10;  
+let rows = 10;  
+let squareSize = 40; 
+let time = 0; 
+
+function setup() {
+  createCanvas(500, 500);
+  noFill(); 
+  rectMode(CENTER);
+}
+```
+- talk about strokeWeight, deltaTime, time and wave motion (from p5.js)
+
+
+
 
  
