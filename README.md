@@ -73,7 +73,7 @@ At to this limit of the code, I was quite confused on what to continue on to the
     }
   }
 
-  time += 0.01; 
+  time += 0.05; 
 }
 ```
 It's quite confusing at first and asked again on about the description of only the end of the code, as there was a lot of codes that I know for example; rotate(angle), 
