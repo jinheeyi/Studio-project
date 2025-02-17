@@ -85,5 +85,5 @@ It's quite confusing at first and asked again on about the description of only t
 
 ![Screenshot 2025-02-13 153847](https://github.com/user-attachments/assets/b8a5387d-c49d-4bd8-9fcb-05ffd7c92fd8)
 
-- I just realized when it was done, I wanted to add more onto the animation, and looked back into her works. I thought about why not making a long version gif, with the same wave motion.
+- I just realized when the first animation was done, I wanted to add more details, and looked back into the artist's works. I thought about why not making a gif, but leaving the code, but upgraded. 
  
