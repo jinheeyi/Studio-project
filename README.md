@@ -86,10 +86,10 @@ At to this limit of the code, I was quite confused on what to continue on to the
 }
 ```
 It's quite confusing at first and asked again on about the description of only the end of the code, as there was a lot of codes that I know for example; rotate(angle), rect, and even strokeWeight.
-
 ![Screenshot 2025-02-13 153847](https://github.com/user-attachments/assets/b8a5387d-c49d-4bd8-9fcb-05ffd7c92fd8)
 
-- I just realized when the first animation was done, I wanted to add more details, and looked back into the artist's works. I thought about why not making a gif, but leaving the code, but upgraded.
+- While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif. He also gave me demonstration step by step on what to do.
+![0](https://github.com/user-attachments/assets/c78fbd5b-fa41-4b8a-ae98-9fd9f1cc02d7)
 https://www.youtube.com/watch?v=5CcMjtN_Q0g
 
  
