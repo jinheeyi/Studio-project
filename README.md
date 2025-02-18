@@ -132,4 +132,16 @@ Sources I found from youtube:
 - https://youtu.be/H6QQIZeVuew
 - https://www.youtube.com/watch?v=erFcMG_LfUw
 
+- For this code, it's quite commonly used on animation, for example flipaclip, for to create time-based images. Plus understands how to keep track of time and change over time, which is essential in creative coding.
+[Changes over time](https://creative-coding.decontextualize.com/changes-over-time/)
 
+```ruby
+ push();
+      translate(x + xOffset, y + waveY + yOffset);
+      rotate(angle);
+      strokeWeight(random(0.5, 2)); // line thickness
+      rect(0, 0, randomSize, randomSize);
+      pop();
+    }
+  }
+```
