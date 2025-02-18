@@ -116,7 +116,18 @@ function draw() {
   time += 0.05;
 }
 ```
-- While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif. He also gave me demonstration step by step on what to do.
+- While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif.  He also gave me demonstration step by step on what to do.
 ![0](https://github.com/user-attachments/assets/c78fbd5b-fa41-4b8a-ae98-9fd9f1cc02d7)
 - So I decided to keep the codes that currently work on Visual Studio Code, and work on through new coding.
-- By that, I need to find the code for distortions, by calculating the angle and the offsets. So I researched through on how to make distortions, letting on randomSize and squareSize, and even xOffset and yOffset. 
+- By that, I need to find the code for distortions, by calculating the angle and the offsets. So I researched through on how to make distortions, letting on randomSize and squareSize, and even xOffset and yOffset.
+```ruby
+ let randomSize = squareSize - random(5, 15); 
+      let angle = random(-PI / 36, PI / 36); //rotation
+      let xOffset = random(-2, 2); // x-axis shift
+      let yOffset = random(-2, 2); // y-axis shift
+```
+Sources I found from youtube:
+
+https://youtu.be/H6QQIZeVuew
+https://www.youtube.com/watch?v=erFcMG_LfUw
+
