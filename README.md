@@ -128,6 +128,6 @@ function draw() {
 ```
 Sources I found from youtube:
 
-https://youtu.be/H6QQIZeVuew
-https://www.youtube.com/watch?v=erFcMG_LfUw
+- https://youtu.be/H6QQIZeVuew
+- https://www.youtube.com/watch?v=erFcMG_LfUw
 
