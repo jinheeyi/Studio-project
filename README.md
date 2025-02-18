@@ -1,5 +1,7 @@
 # Studio-project
 
+- Website Link:
+
 ## Introduction
 - For my studio project, I decided to choose ‘Glitches’ because I thought it would be fun to play around in a p5.js sketch. It’s merely focusing on playfulness and randomness, instead of aiming for difficult word coding or perfection. What I really wanted to try is to do the unexpected, and I wanted to lead where it goes wild and crazy into this sketch. 
 - During my 10 workshops, there was some uncompleted work due to the past few weeks, but I was quite proud of the final result of what I have done. Even I was very thankful on Leo's feedback, saying that it was **"good level of experimentation with coding skills introduced in the workshop videos. Some of your experimentation with interactivity and 2D primitive shapes gave rise to interesting visual experiences."** But there were some missing points happening, which was the student linking and also 2 missing workshops. I did understand on the reason, but for this final assignment, I had a feeling that it'll get much improved. I also learnt a lesson about computer coding, where it's not about perfecting the sketch, but tempting to learn and getting to understand the code structure, while making a sketch. 
@@ -26,9 +28,6 @@ Kane situates glitch aesthetics within a broader artistic tradition that values 
 The chapter also considers the cultural significance of digital breakdowns. Kane argues that in a world increasingly dominated by algorithms and automated processes, glitches remind us that technology is never truly neutral. _**“The glitch is a rupture,”**_ she explains, _**“a moment where the digital illusion collapses, revealing the systems of control beneath.”**_ In this sense, glitch art is not just about aesthetics—it is also about making technology’s underlying structures visible and open to critique.
 Moreover, Kane highlights how digital error has been co-opted into mainstream culture. What was once an underground, subversive practice has been absorbed into corporate design, advertising, and even fashion. She describes how high-end brands and commercial artists now incorporate glitch aesthetics to signal digital authenticity or edginess. _**“As with all avant-garde styles,”**_ , _**“glitch, too, has been commodified—its rough edges polished just enough to make it palatable for the masses.”**_ This raises questions about whether glitch art retains its radical potential or if it has simply become another aesthetic trend.
 Ultimately, *Chroma Glitch: Data as Style* presents glitch art as more than a passing visual trend. Kane sees it as a response to digital culture’s obsession with smoothness, efficiency, and control. By transforming errors into art, artists challenge the notion that digital media should be perfect, inviting viewers to see technology not as an invisible tool but as something messy, unstable, and deeply human.
-
-
-
 
 
 ## Coding
@@ -118,8 +117,10 @@ function draw() {
 ```
 - While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif.  He also gave me demonstration step by step on what to do.
 ![0](https://github.com/user-attachments/assets/c78fbd5b-fa41-4b8a-ae98-9fd9f1cc02d7)
+![0](https://github.com/user-attachments/assets/4c002851-b807-44cf-bee8-cfa26f6dc064)
 - So I decided to keep the codes that currently work on Visual Studio Code, and work on through new coding.
 - By that, I need to find the code for distortions, by calculating the angle and the offsets. So I researched through on how to make distortions, letting on randomSize and squareSize, and even xOffset and yOffset.
+- The code adjusts the random rotation angle to the variable angle, which I found on the resource on google and www.chatgpt.com, searching on how to make grid by grid on p5.js. 
 ```ruby
  let randomSize = squareSize - random(5, 15); 
       let angle = random(-PI / 36, PI / 36); //rotation
@@ -130,4 +131,5 @@ Sources I found from youtube:
 
 - https://youtu.be/H6QQIZeVuew
 - https://www.youtube.com/watch?v=erFcMG_LfUw
+
 
