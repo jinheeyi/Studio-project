@@ -1,6 +1,6 @@
 # Studio-project
 
-- Website Link:
+- Website Link:https://jinheeyi.github.io/Studio-project/
 
 ## Introduction
 - For my studio project, I decided to choose ‘Glitches’ because I thought it would be fun to play around in a p5.js sketch. It’s merely focusing on playfulness and randomness, instead of aiming for difficult word coding or perfection. What I really wanted to try is to do the unexpected, and I wanted to lead where it goes wild and crazy into this sketch. 
