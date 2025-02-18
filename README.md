@@ -73,16 +73,13 @@ function setup() {
 ```
 At to this limit of the code, I was quite confused on what to continue on to the next code, so I asked www.chatgpt.com, questioning _can you make the squares move like the wave motion?_, and it displayed up like this:
 ```ruby
- push();
-      translate(x + xOffset, y + waveY + yOffset);
-      rotate(angle);
-      strokeWeight(random(0.5, 2)); // line thickness
-      rect(0, 0, randomSize, randomSize);
-      pop();
+ let waveY = sin(time + i * 0.5) * 20;
+
+      rect(x, y + waveY, squareSize - 5, squareSize - 5);
     }
   }
 
-  time += 0.05; 
+  time += 0.05;
 }
 ```
 It's quite confusing at first and asked again on about the description of only the end of the code, as there was a lot of codes that I know for example; rotate(angle), rect, and even strokeWeight.
@@ -90,37 +87,36 @@ It's quite confusing at first and asked again on about the description of only t
 
 The full code:
 ```ruby
-let cols = 10;  // Number of columns
-let rows = 10;  // Number of rows
-let squareSize = 40; // Size of each square
-let time = 0; // Time variable for animation
+let cols = 10; 
+let rows = 10;
+let squareSize = 40;
+let time = 0; 
 
 function setup() {
   createCanvas(500, 500);
-  noFill(); // No color inside the squares
-  stroke(0); // Black outline
+  noFill(); 
+  stroke(0);
   rectMode(CENTER);
 }
 
 function draw() {
-  background(255); // White background
+  background(255);
 
   for (let i = 0; i < cols; i++) {
     for (let j = 0; j < rows; j++) {
       let x = i * squareSize + squareSize / 2;
       let y = j * squareSize + squareSize / 2;
 
-      // Wave motion using sine function
       let waveY = sin(time + i * 0.5) * 20;
 
       rect(x, y + waveY, squareSize - 5, squareSize - 5);
     }
   }
 
-  time += 0.05; // Animation speed
+  time += 0.05;
 }
 ```
 - While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif. He also gave me demonstration step by step on what to do.
 ![0](https://github.com/user-attachments/assets/c78fbd5b-fa41-4b8a-ae98-9fd9f1cc02d7)
 - So I decided to keep the codes that currently work on Visual Studio Code, and work on through new coding.
-- 
+- By that, I need to find the code for distortions, by calculating the angle and the offsets. So I researched through on how to make distortions, letting on randomSize and squareSize, and even xOffset and yOffset. 
