@@ -88,6 +88,42 @@ At to this limit of the code, I was quite confused on what to continue on to the
 It's quite confusing at first and asked again on about the description of only the end of the code, as there was a lot of codes that I know for example; rotate(angle), rect, and even strokeWeight.
 ![Screenshot 2025-02-13 153847](https://github.com/user-attachments/assets/b8a5387d-c49d-4bd8-9fcb-05ffd7c92fd8)
 
+The full code:
+```ruby
+let cols, rows;
+let spacing = 50;  // Grid spacing
+let waveSpeed = 0.05;  // Speed of wave motion
+let waveAmplitude = 10;  // Maximum movement offset
+let rotationAmplitude = PI / 8;  // Maximum rotation angle
+
+function setup() {
+  createCanvas(500, 500);
+  cols = width / spacing;
+  rows = height / spacing;
+  noFill();
+}
+
+function draw() {
+  background(255);
+  stroke(0);
+
+  for (let i = 0; i < cols; i++) {
+    for (let j = 0; j < rows; j++) {
+      let x = i * spacing + spacing / 2;
+      let y = j * spacing + spacing / 2;
+
+      let waveOffset = waveAmplitude * sin(frameCount * waveSpeed + (i + j) * 0.3);
+
+      push();
+      translate(x, y + waveOffset);  // Apply wave motion to Y position
+      rectMode(CENTER);
+      square(0, 0, spacing * 0.8);
+      pop();
+    }
+  }
+}
+```
+
 - While working on my animation, I noticed that my sketch appeared less abstract than I initially intended. I want to reference the artist I chose more effectively and incorporate a glitch-style theme. To achieve this, I need to explore ways to extend my animation while enhancing the glitch effect. What steps can I take to create a longer version of my glitch-inspired sketch? So I decided to ask my friend to come over and talk through about the gif. He also gave me demonstration step by step on what to do.
 ![0](https://github.com/user-attachments/assets/c78fbd5b-fa41-4b8a-ae98-9fd9f1cc02d7)
 https://www.youtube.com/watch?v=5CcMjtN_Q0g
